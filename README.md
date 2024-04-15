@@ -28,8 +28,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lucifer7344&show_icons=true&locale=en" alt="lucifer7344" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lucifer7344&" alt="lucifer7344" /></p>
-
-
+<img src="https://raw.githubusercontent.com/Lucifer7344/Lucifer7344/output/snake.svg" alt="Snake animation" />
 - 🔭 I’m currently working on open source
 - 🌱 I’m currently learning Ai models 
 - 💬 Ask me about ...
