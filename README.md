@@ -1,8 +1,8 @@
-![logo ]( https://github.com/Lucifer7344/Lucifer7344/blob/main/workflows/Black%20Green%20Futuristic%20YouTube%20Intro%20(1).gif)
+![logo ](https://github.com/Lucifer7344/Lucifer7344/blob/main/.github/workflows/Black%20Green%20Futuristic%20YouTube%20Intro%20(1).gif)
 
 <h1 align="center">Hi 👋, I'm Harshit Katiyar</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<img align="right" alt="coding" width="300" src="https://github.com/Lucifer7344/Lucifer7344/blob/main/workflows/_3abda505-a1ef-4be5-92e0-232e3e0086a3.jpeg">
+<img align="right" alt="coding" width="300" src="https://github.com/Lucifer7344/Lucifer7344/blob/main/.github/workflows/_3abda505-a1ef-4be5-92e0-232e3e0086a3.jpeg">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lucifer7344&label=Profile%20views&color=0e75b6&style=flat" alt="lucifer7344" /> </p>
 
