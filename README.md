@@ -2,6 +2,8 @@
 
 ![logo ](https://github.com/Lucifer7344/Lucifer7344/blob/main/.github/workflows/Black%20Green%20Futuristic%20YouTube%20Intro%20(1).gif)
 
+<a href="https://app.daily.dev/lucifer7344"><img src="https://api.daily.dev/devcards/v2/WmCWWW9DTDcmBMmL6Yc9u.png?type=wide&r=ipg" width="652" alt="Harshit katiyar's Dev Card"/></a>
+
 <h1 align="center">Hi 👋, I'm Harshit Katiyar</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="right" alt="coding" width="300" src="https://github.com/Lucifer7344/Lucifer7344/blob/main/.github/workflows/_3abda505-a1ef-4be5-92e0-232e3e0086a3.jpeg">
