@@ -7,7 +7,7 @@
 
 <div class="myDiv">
   
-  <img align="right" alt="coding" width="300" border-radius="20%" src="https://github.com/Lucifer7344/Lucifer7344/blob/main/.github/workflows/_3abda505-a1ef-4be5-92e0-232e3e0086a3.jpeg">
+  <img align="right" alt="coding" width="300"  src="https://github.com/Lucifer7344/Lucifer7344/blob/main/.github/workflows/_3abda505-a1ef-4be5-92e0-232e3e0086a3.jpeg">
 
 </div>
 
