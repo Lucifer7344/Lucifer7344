@@ -13,6 +13,10 @@
 
 </div>
 
+<a href="https://app.daily.dev/lucifer7344"><img src="https://api.daily.dev/devcards/v2/WmCWWW9DTDcmBMmL6Yc9u.png?type=wide&r=ipg" width="652" alt="Harshit katiyar's Dev Card"/></a>
+
+<img align="right" alt="coding" width="300" src="https://github.com/Lucifer7344/Lucifer7344/blob/main/.github/workflows/_3abda505-a1ef-4be5-92e0-232e3e0086a3.jpeg">
+
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lucifer7344" alt="lucifer7344" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/harshit73444" target="blank"><img src="https://img.shields.io/twitter/follow/harshit73444?logo=twitter&style=for-the-badge" alt="harshit73444" /></a> </p>
