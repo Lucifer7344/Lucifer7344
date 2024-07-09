@@ -16,7 +16,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lucifer7344" alt="lucifer7344" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/harshit73444" target="blank"><img src="https://img.shields.io/twitter/follow/harshit73444?logo=twitter&style=for-the-badge" alt="harshit73444" /></a> </p>
+<p align="left"> <a href="https://twitter.com/harshit73444" target="blank"><img src="https://img.shields.io/twitter/follow/harshit73444?logo=twitter&style=for-th" alt="coding status" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
