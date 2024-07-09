@@ -12,6 +12,7 @@
 </div>
 
 <a href="https://app.daily.dev/lucifer7344"><img src="https://api.daily.dev/devcards/v2/WmCWWW9DTDcmBMmL6Yc9u.png?type=wide&r=ipg" width="652" alt="Harshit katiyar's Dev Card"/></a>
+<a href="https://codolio.com/profile/lucifer7344"><img src="https://api.daily.dev/devcards/v2/WmCWWW9DTDcmBMmL6Yc9u.png?type=wide&r=ipg" width="652" alt="Harshit katiyar's coding profile"/></a>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lucifer7344" alt="lucifer7344" /></a> </p>
 
