@@ -3,7 +3,7 @@
 ![logo ](https://github.com/Lucifer7344/Lucifer7344/blob/main/.github/workflows/Black%20Green%20Futuristic%20YouTube%20Intro%20(1).gif)
 
 <h1 align="center">Hi 👋, I'm Harshit Katiyar</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate Python developer from India</h3>
 
 <div class="myDiv">
   
