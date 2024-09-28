@@ -11,7 +11,6 @@
 
 </div>
 
-<a href="https://codolio.com/profile/lucifer7344"><img src="https://lh3.googleusercontent.com/a/ACg8ocI8pC" width="652" alt="Harshit katiyar's coding profile"/></a>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lucifer7344" alt="lucifer7344" /></a> </p>
 
