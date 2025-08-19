@@ -3,7 +3,13 @@
 ![logo ](https://github.com/Lucifer7344/Lucifer7344/blob/main/.github/workflows/Black%20Green%20Futuristic%20YouTube%20Intro%20(1).gif)
 
 <h1 align="center">Hi 👋, I'm Harshit Katiyar</h1>
-<h3 align="center">A passionate Python developer from India</h3>
+<h3 align="center"> As a Freelance Python & Data Science Trainer with over 2 years of experience, I have been empowering students and professionals to build strong technical foundations in programming, data analytics, and machine learning.
+
+I hold a B.Tech in Computer Science (AI & ML specialization) from AKTU and have also completed a 6-month internship in advanced ethical hacking and cybersecurity with Verzeo Institute and Eduskill, which strengthened my problem-solving and security expertise.
+
+ My journey has been a blend of training, freelancing projects, and continuous learning in data science, AI/ML, and databases—allowing me to translate complex concepts into practical, real-world applications.
+
+I’m passionate about teaching, mentoring, and solving data-driven challenges, and I aim to bring value by combining technical depth with practical implementation.</h3>
 
 <div class="myDiv">
   
