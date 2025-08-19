@@ -1,6 +1,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lucifer7344&label=Profile%20views&color=0e75b6&style=flat" alt="lucifer7344" /> </p>
 
-![logo ](https://www.kittl.com/design/Rebbelion-Poster-UPqKNHjU)
+![logo ](https://1drv.ms/i/c/0468ad099998b9bf/ET2QSZeVn_9IqMeCK7SkLlUBe74xvjcTfea-3vIpFpmEwA?e=QepSnc)
 
 <h1 align="center">Hi 👋, I'm Harshit Katiyar</h1>
 <h3 align="center"> As a Freelance Python & Data Science Trainer with over 2 years of experience, I have been empowering students and professionals to build strong technical foundations in programming, data analytics, and machine learning.
