@@ -24,11 +24,11 @@
   <img src="https://github.com/Lucifer7344/Lucifer7344/blob/main/assets/glass-card.png" width="80%" style="border-radius:20px;"/>
 </div>
 
-> I have a strong mix of technical and business exposure — trained hundreds of students in Python, Data Analytics, and ML, while also working as a **Senior Business Development Executive**, handling client communication, sales strategy, and product value delivery.
+> I’m Harshit Katiyar, a Data Science Trainer and aspiring AI/Data Engineer who blends technical depth with strong communication and real-world problem-solving. With a B.Tech in AI & ML (2025) and hands-on experience teaching Python, SQL, Power BI, Machine Learning, and Data Engineering, I’ve built a strong foundation for creating impactful data-driven and AI-powered systems.
 
-I completed my **B.Tech in Computer Science (AI & ML)** and a **6-month internship in Ethical Hacking & Cybersecurity**, which built my analytical mindset and security-first approach.
+> Before entering the tech domain full-time, I worked as a Senior Business Development Executive, which sharpened my client understanding, requirement gathering, and analytical thinking — giving me a unique edge in roles where technical solutions must align with real business needs.
 
-I enjoy working with data, solving practical problems, and teaching concepts in a simple, structured way so anyone can understand them.
+> I focus on building production-style, end-to-end projects that showcase practical problem-solving and clear technical architecture.
 
 ---
 
