@@ -8,7 +8,7 @@
   <img src="https://img.shields.io/badge/Trainer-AI%20%7C%20ML-ff007f?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Data%20Science-Expert-8A2BE2?style=for-the-badge&logo=databricks&logoColor=white" />
   <img src="https://img.shields.io/badge/Ethical%20Hacker-Cybersecurity-00FFFF?style=for-the-badge&logo=kalilinux&logoColor=black" />
-  <img src="https://img.shields.io/badge/BD%20Executive-Skill%20Stack%20Hub-fuchsia?style=for-the-badge&logo=googlechat&logoColor=white" />
+  <!-- <img src="https://img.shields.io/badge/BD%20Executive-Skill%20Stack%20Hub-fuchsia?style=for-the-badge&logo=googlechat&logoColor=white" />  -->
 </p>
 
 <!-- Typing Animation -->
@@ -100,6 +100,8 @@ https://github.com/Ayushparikh-code/Ayushparikh-code/raw/master/Floating%20Effec
 
 ---
 
+  <img src="https://raw.githubusercontent.com/Lucifer7344/Lucifer7344/output/snake.svg" alt="Snake animation" />
+  
 #  **Connect With Me**
 
 <p align="center">
@@ -117,4 +119,4 @@ https://github.com/Ayushparikh-code/Ayushparikh-code/raw/master/Floating%20Effec
 
 
 
-  <img src="https://raw.githubusercontent.com/Lucifer7344/Lucifer7344/output/snake.svg" alt="Snake animation" />
+
