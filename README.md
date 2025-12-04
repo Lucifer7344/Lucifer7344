@@ -91,14 +91,25 @@ I enjoy working with data, solving practical problems, and teaching concepts in 
 ---
 
 #  **Floating Animation Icons**
-
 <div align="center">
 
-https://github.com/Ayushparikh-code/Ayushparikh-code/raw/master/Floating%20Effect.gif
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="60" style="animation: float 3s ease-in-out infinite;"/>
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="60" style="animation: float 3s ease-in-out infinite;"/>
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" width="60" style="animation: float 3s ease-in-out infinite;"/>
 
 </div>
 
----
+<!-- Animation -->
+<style>
+@keyframes float {
+  0% { transform: translateY(0px); }
+  50% { transform: translateY(-12px); }
+  100% { transform: translateY(0px); }
+}
+</style>
+
 
   <img src="https://raw.githubusercontent.com/Lucifer7344/Lucifer7344/output/snake.svg" alt="Snake animation" />
   
