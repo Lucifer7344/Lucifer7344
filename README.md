@@ -198,8 +198,54 @@ Stack: Scikit-Learn · PyTorch · TensorFlow
 ## ◈ CONTRIBUTION MATRIX
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/Lucifer7344/Lucifer7344/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Lucifer7344/Lucifer7344/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Lucifer7344/Lucifer7344/output/github-contribution-grid-snake.svg" />
+  <img alt="Snake animation" src="https://raw.githubusercontent.com/Lucifer7344/Lucifer7344/output/github-contribution-grid-snake.svg" />
+</picture>
+
 </div>
+
+<details>
+<summary>⚡ <b>Snake not showing? Click to set it up (2 min)</b></summary>
+
+Create `.github/workflows/snake.yml` in your **Lucifer7344** profile repo:
+
+```yaml
+name: Generate Snake
+
+on:
+  schedule:
+    - cron: "0 */12 * * *"
+  workflow_dispatch:
+  push:
+    branches: [main]
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: Platane/snk/svg-only@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+
+      - uses: crazy-max/ghaction-github-pages@v3.1.0
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+```
+
+Then: **Settings → Actions → General → Workflow permissions → Read & write → Save**
+Then run the workflow manually once from the **Actions** tab. ✅
+
+</details>
 
 ---
 
@@ -249,7 +295,7 @@ Stack: Scikit-Learn · PyTorch · TensorFlow
 
 <br/>
 
-<!-- FOOTER WAVE -->
-<img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:000D26,50:1A003D,100:0D0D1A&section=footer&fontColor=00F7FF" width="100%" />
+<!-- FOOTER WAVE - vibrant gradient -->
+<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:FF6FD8,30:9B59FF,60:3AE8FF,100:00F0A0&section=footer&text=Let%27s%20Build%20Something%20Incredible&fontSize=22&fontColor=ffffff&fontAlignY=65&animation=fadeIn" width="100%" />
 
 </div>
