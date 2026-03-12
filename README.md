@@ -1,118 +1,255 @@
-<!-- Waving Animated Banner Header -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:00E5FF,100:7A00FF&text=Harshit%20Katiyar&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=40" />
-</p>
-
-<!-- 3D Badges -->
-<p align="center">
-  <img src="https://img.shields.io/badge/Trainer-AI%20%7C%20ML-ff007f?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Data%20Science-Expert-8A2BE2?style=for-the-badge&logo=databricks&logoColor=white" />
-  <img src="https://img.shields.io/badge/Ethical%20Hacker-Cybersecurity-00FFFF?style=for-the-badge&logo=kalilinux&logoColor=black" />
-  <!-- <img src="https://img.shields.io/badge/BD%20Executive-Skill%20Stack%20Hub-fuchsia?style=for-the-badge&logo=googlechat&logoColor=white" />  -->
-</p>
-
-<!-- Typing Animation -->
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=monospace&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Python+%26+Data+Science+Trainer;AI+%7C+ML+Engineer;Cybersecurity+%7C+Ethical+Hacking;Senior+Business+Development+Executive" />
-</h1>
-
----
-
-#  **About Me**
-
 <div align="center">
-  <img src="https://github.com/Lucifer7344/Lucifer7344/blob/main/assets/glass-card.png" width="80%" style="border-radius:20px;"/>
+
+<!-- ANIMATED HEADER -->
+<img src="https://capsule-render.vercel.app/api?type=cylinder&height=280&color=0:0D0D1A,50:1A003D,100:000D26&text=HARSHIT%20KATIYAR&fontSize=52&fontColor=00F7FF&animation=blinking&fontAlignY=45&desc=AI%20%7C%20ML%20%7C%20Data%20Science%20%7C%20Cybersecurity&descSize=18&descAlignY=65&descFontColor=A78BFA" width="100%" />
+
+<!-- TYPING ANIMATION -->
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=800&color=00F7FF&center=true&vCenter=true&repeat=true&width=750&height=50&lines=B.Tech+AI+%26+ML+%E2%80%94+Graduating+2025;Data+Science+%26+Python+Trainer;AI+%7C+ML+Engineer+in+the+Making;Ethical+Hacker+%7C+Cybersecurity+Practitioner;Building+Production-Ready+AI+Systems" alt="Typing SVG" />
+
+<br/>
+
+<!-- SOCIAL BADGES ROW -->
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/harshit-katiyar7344)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/harshit73444)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/harshit_katiyar___)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:workwithharshitkatiyar@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Lucifer7344)
+
+<br/>
+
+![Profile Views](https://komarev.com/ghpvc/?username=lucifer7344&style=for-the-badge&color=7C3AED&label=PROFILE+VIEWS)
+![GitHub followers](https://img.shields.io/github/followers/lucifer7344?style=for-the-badge&color=0EA5E9&label=FOLLOWERS)
+
 </div>
 
-> I’m Harshit Katiyar, a Data Science Trainer and aspiring AI/Data Engineer who blends technical depth with strong communication and real-world problem-solving. With a B.Tech in AI & ML (2025) and hands-on experience teaching Python, SQL, Power BI, Machine Learning, and Data Engineering, I’ve built a strong foundation for creating impactful data-driven and AI-powered systems.
+---
 
-> Before entering the tech domain full-time, I worked as a Senior Business Development Executive, which sharpened my client understanding, requirement gathering, and analytical thinking — giving me a unique edge in roles where technical solutions must align with real business needs.
+## ◈ WHO AM I
 
-> I focus on building production-style, end-to-end projects that showcase practical problem-solving and clear technical architecture.
+```python
+class HarshitKatiyar:
+
+    def __init__(self):
+        self.name         = "Harshit Katiyar"
+        self.alias        = "Lucifer7344"
+        self.location     = "India 🇮🇳"
+        self.degree       = "B.Tech — AI & ML (2025)"
+        self.roles        = ["Data Science Trainer", "AI/ML Engineer", "Ethical Hacker"]
+        self.past         = "Senior Business Development Executive → turned Tech"
+        self.philosophy   = "Bridge the gap between business logic and AI systems"
+
+    def current_focus(self):
+        return [
+            "End-to-end ML pipelines",
+            "Generative AI & RAG architectures",
+            "LLM fine-tuning & deployment",
+            "Red team / offensive security tooling",
+        ]
+
+    def fun_fact(self):
+        return "I teach Data Science by day & break systems ethically by night. 🦇"
+```
 
 ---
 
-# **Tech Stack**
+## ◈ TECH ARSENAL
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn,opencv,numpy,pandas,mysql,mongodb,flask,django,react,git,github,linux,aws,azure,gcp&theme=light" />
-</p>
-
----
-
-# **Projects**
-
-### **Generative AI Document QA**
-<a href="https://github.com/Lucifer7344/GenAI-Document-QA">
-  <img src="https://github-widgetbox.vercel.app/api/box?username=lucifer7344&theme=purple&title=Generative%20AI%20Document%20QA&description=LLMs%20%2B%20RAG%20Document%20Question%20Answering&footer=Python%20%7C%20FAISS%20%7C%20LLM" width="450" />
-</a>
-
-### **Sales Power BI Dashboard**
-<a href="https://github.com/Lucifer7344/PowerBI-Sales-Dashboard">
-  <img src="https://github-widgetbox.vercel.app/api/box?username=lucifer7344&theme=green&title=Sales%20Power%20BI%20Dashboard&description=Actionable%20Insights%20%26%20KPIs&footer=PowerBI%20%7C%20DAX%20%7C%20Analytics" width="450" />
-</a>
-
-###  **Cybersecurity Ethical Hacking Toolkit**
-<a href="https://github.com/Lucifer7344/Cyber-Security-Scripts">
-  <img src="https://github-widgetbox.vercel.app/api/box?username=lucifer7344&theme=red&title=Cybersecurity%20Toolkit&description=Recon%2C%20Scanning%2C%20Encryption%20Tools&footer=Python%20%7C%20Security%20%7C%20Automation" width="450" />
-</a>
-
----
-
-#  **Dynamic GitHub Skyline**
-
-<p align="center">
-  <a href="https://skyline.github.com/lucifer7344">
-    <img src="https://img.shields.io/badge/Click%20to%20View-3D%20GitHub%20Skyline-00eaff?style=for-the-badge&logo=github&logoColor=black"/>
-  </a>
-</p>
-
----
-
-#  **Contribution Snake**
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Lucifer7344/Lucifer7344/output/github-contribution-grid-snake-dark.svg" />
-</p>
-
----
-
-# **Stats**
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=lucifer7344&show_icons=true&theme=tokyonight&hide_border=true&border_radius=20" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=lucifer7344&theme=neon-palenight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucifer7344&layout=compact&theme=highcontrast&hide_border=true" width="45%" />
-</p>
-
----
-
-#  **Floating Animation Icons**
 <div align="center">
 
- ---
+### ⬡ Languages & Core
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-121011?style=flat-square&logo=gnu-bash&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 
+### ⬡ AI / ML / Data
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=chainlink&logoColor=white)
+![FAISS](https://img.shields.io/badge/FAISS-0064A5?style=flat-square&logoColor=white)
 
-  <img src="https://raw.githubusercontent.com/Lucifer7344/Lucifer7344/output/snake.svg" alt="Snake animation" />
-  
-#  **Connect With Me**
+### ⬡ Databases & Backend
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
 
-<p align="center">
-  <a href="https://linkedin.com/in/harshit-katiyar7344"><img src="https://skillicons.dev/icons?i=linkedin" width="48"/></a>
-  <a href="https://twitter.com/harshit73444"><img src="https://skillicons.dev/icons?i=twitter" width="48"/></a>
-  <a href="https://instagram.com/harshit_katiyar___"><img src="https://skillicons.dev/icons?i=instagram" width="48"/></a>
-  <a href="mailto:workwithharshitkatiyar@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" width="48"/></a>
-</p>
+### ⬡ Cloud & DevOps
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white)
+![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+
+### ⬡ Cybersecurity
+![Kali Linux](https://img.shields.io/badge/Kali%20Linux-557C94?style=flat-square&logo=kalilinux&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white)
+![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=flat-square&logoColor=white)
+![Nmap](https://img.shields.io/badge/Nmap-004170?style=flat-square&logoColor=white)
+![Burp Suite](https://img.shields.io/badge/Burp%20Suite-FF6633?style=flat-square&logo=portswigger&logoColor=white)
+
+</div>
 
 ---
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:7A00FF,100:00E5FF&section=footer" />
-</p>
+## ◈ FEATURED PROJECTS
 
+<div align="center">
+<table>
+<tr>
+<td width="50%">
 
+### 🤖 GenAI Document QA
+> **LLMs + RAG for intelligent document Q&A**
 
+```
+Stack: Python · LangChain · FAISS · OpenAI
+       Embeddings · Vector DB · Streamlit
+```
 
+[![Repo](https://img.shields.io/badge/View%20Repo-181717?style=for-the-badge&logo=github)](https://github.com/Lucifer7344/GenAI-Document-QA)
+![Stars](https://img.shields.io/github/stars/Lucifer7344/GenAI-Document-QA?style=flat-square&color=FFD700)
+
+</td>
+<td width="50%">
+
+### 📊 Sales Power BI Dashboard
+> **Interactive KPI tracking & business intelligence**
+
+```
+Stack: Power BI · DAX · Excel
+       SQL · Business Analytics
+```
+
+[![Repo](https://img.shields.io/badge/View%20Repo-181717?style=for-the-badge&logo=github)](https://github.com/Lucifer7344/PowerBI-Sales-Dashboard)
+![Stars](https://img.shields.io/github/stars/Lucifer7344/PowerBI-Sales-Dashboard?style=flat-square&color=FFD700)
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### 🔐 Cybersecurity Toolkit
+> **Recon, scanning & encryption automation suite**
+
+```
+Stack: Python · Scapy · Cryptography
+       Network Security · Automation
+```
+
+[![Repo](https://img.shields.io/badge/View%20Repo-181717?style=for-the-badge&logo=github)](https://github.com/Lucifer7344/Cyber-Security-Scripts)
+![Stars](https://img.shields.io/github/stars/Lucifer7344/Cyber-Security-Scripts?style=flat-square&color=FFD700)
+
+</td>
+<td width="50%">
+
+### 🧠 ML Pipeline Projects
+> **End-to-end production-style ML architectures**
+
+```
+Stack: Scikit-Learn · PyTorch · TensorFlow
+       MLflow · Docker · REST APIs
+```
+
+[![Repos](https://img.shields.io/badge/Explore%20All-181717?style=for-the-badge&logo=github)](https://github.com/Lucifer7344?tab=repositories)
+
+</td>
+</tr>
+</table>
+</div>
+
+---
+
+## ◈ GITHUB ANALYTICS
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=lucifer7344&show_icons=true&theme=midnight-purple&hide_border=true&border_radius=12&bg_color=0D0D1A&title_color=00F7FF&icon_color=A78BFA&text_color=C4B5FD&ring_color=7C3AED" width="49%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=lucifer7344&theme=midnight-purple&hide_border=true&background=0D0D1A&ring=00F7FF&fire=A78BFA&currStreakLabel=C4B5FD&sideLabels=C4B5FD&dates=7C3AED&sideNums=00F7FF&currStreakNum=A78BFA" width="49%" />
+
+<br/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucifer7344&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0D0D1A&title_color=00F7FF&text_color=C4B5FD&border_radius=12" width="45%" />
+
+<br/>
+
+<!-- ACTIVITY GRAPH -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=lucifer7344&bg_color=0D0D1A&color=00F7FF&line=7C3AED&point=A78BFA&area=true&hide_border=true" width="100%" />
+
+</div>
+
+---
+
+## ◈ TROPHIES
+
+<div align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=lucifer7344&theme=darkhub&no-frame=true&no-bg=true&margin-w=6&column=7" />
+</div>
+
+---
+
+## ◈ CONTRIBUTION MATRIX
+
+<div align="center">
+<img src="https://raw.githubusercontent.com/Lucifer7344/Lucifer7344/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+</div>
+
+---
+
+## ◈ 3D GITHUB SKYLINE
+
+<div align="center">
+
+[![Skyline](https://img.shields.io/badge/🌆%20View%20My%203D%20Contribution%20Skyline-0D0D1A?style=for-the-badge&logo=github&logoColor=00F7FF&labelColor=1A003D)](https://skyline.github.com/lucifer7344)
+
+</div>
+
+---
+
+## ◈ WHAT I'M BUILDING TOWARD
+
+```
+┌─────────────────────────────────────────────────────────────────────────┐
+│                        HARSHIT'S ROADMAP — 2025                         │
+├─────────────────────────────────────────────────────────────────────────┤
+│  ✅  B.Tech AI & ML — Final year                                        │
+│  ✅  GenAI RAG system — Document QA pipeline                            │
+│  🔄  Fine-tuning open-source LLMs (Llama / Mistral)                    │
+│  🔄  MLOps: MLflow + Docker + CI/CD for model deployment               │
+│  🔄  CEH (Certified Ethical Hacker) Certification                      │
+│  📌  Contributing to open-source AI projects                           │
+│  📌  Full-stack AI product (SaaS) launch                               │
+└─────────────────────────────────────────────────────────────────────────┘
+```
+
+---
+
+## ◈ EXPERIENCE SNAPSHOT
+
+| Role | Domain | Impact |
+|------|---------|--------|
+| 🎓 Data Science Trainer | Python · ML · Power BI · SQL | Mentored students from zero to deployment-ready |
+| 🤖 AI/ML Engineer (building) | LLMs · RAG · CV · NLP | End-to-end project architecture |
+| 🔐 Ethical Hacker | Network · Web · OSINT | Recon & automation toolkits |
+| 📈 Sr. BD Executive (past) | Client relations · Analytics | Sharpened product-market thinking |
+
+---
+
+<div align="center">
+
+<!-- QUOTE -->
+> *"The best engineers don't just write code — they understand the problem deeply enough to question whether code is even the answer."*
+
+<br/>
+
+<!-- FOOTER WAVE -->
+<img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:000D26,50:1A003D,100:0D0D1A&section=footer&fontColor=00F7FF" width="100%" />
+
+</div>
