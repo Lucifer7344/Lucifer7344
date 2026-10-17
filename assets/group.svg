@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 300" width="1200" height="300" font-family="'Segoe UI','Helvetica Neue',Helvetica,Arial,sans-serif">
+<defs><linearGradient id="top" x1="0" x2="1"><stop offset="0" stop-color="#12355B"/><stop offset="1" stop-color="#0B1F3A"/></linearGradient></defs>
+<style>
+.flow{stroke-dasharray:6 10;animation:flow 1.8s linear infinite}
+@keyframes flow{to{stroke-dashoffset:-64}}
+.in{opacity:0;animation:in .8s ease-out forwards}
+@keyframes in{from{opacity:0}to{opacity:1}}
+.dot{animation:dot 2.2s ease-in-out infinite}
+@keyframes dot{0%,100%{opacity:.4}50%{opacity:1}}
+</style>
+<path class="flow" d="M600 96 C600 150 330 140 330 192" stroke="#7DD3FC" stroke-width="2" fill="none"/>
+<path class="flow" d="M600 96 C600 150 870 140 870 192" stroke="#7DD3FC" stroke-width="2" fill="none"/>
+<g class="in"><rect x="440" y="22" width="320" height="74" rx="16" fill="url(#top)" stroke="#7DD3FC" stroke-opacity=".7"/>
+<text x="600" y="58" text-anchor="middle" font-size="24" font-weight="800" letter-spacing="3" fill="#F5F7FA">ALBEROZ GROUP</text>
+<text x="600" y="80" text-anchor="middle" font-size="13" letter-spacing="2" fill="#7DD3FC">PARENT COMPANY</text>
+<circle class="dot" cx="600" cy="96" r="5" fill="#7DD3FC"/></g>
+<g class="in" style="animation-delay:.4s"><rect x="160" y="192" width="340" height="86" rx="16" fill="#0B1F3A" stroke="#7DD3FC" stroke-opacity=".45"/>
+<text x="330" y="228" text-anchor="middle" font-size="21" font-weight="700" fill="#F5F7FA">Albero Technologies</text>
+<text x="330" y="254" text-anchor="middle" font-size="14" fill="#94A3B8">SaaS · Custom Software · AI · Analytics</text></g>
+<g class="in" style="animation-delay:.7s"><rect x="700" y="192" width="340" height="86" rx="16" fill="#0B1F3A" stroke="#7DD3FC" stroke-opacity=".45"/>
+<text x="870" y="228" text-anchor="middle" font-size="21" font-weight="700" fill="#F5F7FA">Training &amp; EdTech</text>
+<text x="870" y="254" text-anchor="middle" font-size="14" fill="#94A3B8">Data · AI · Full-Stack · Cybersecurity</text></g>
+</svg>

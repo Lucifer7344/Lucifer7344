@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 12" width="1200" height="12">
+<defs><linearGradient id="l" x1="0" x2="1"><stop offset="0" stop-color="#7DD3FC" stop-opacity="0"/><stop offset=".5" stop-color="#7DD3FC"/><stop offset="1" stop-color="#7DD3FC" stop-opacity="0"/></linearGradient></defs>
+<style>.r{animation:r 3s ease-in-out infinite}@keyframes r{0%{transform:translateX(-400px)}100%{transform:translateX(1200px)}}</style>
+<rect y="5.5" width="1200" height="1" fill="#7DD3FC" fill-opacity=".15"/>
+<rect class="r" y="4.5" width="400" height="3" rx="1.5" fill="url(#l)"/>
+</svg>
